@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mukeshsharmaxdc
-- 👀 I’m interested in python c++ java
+- 👋 Hi, I’m Vigneshwar V
+- 👀 I’m interested in python machine learning data science
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on colleges
-- 📫 How to reach me mukeshxba@gmail.com
+- 📫 How to reach me mails4vigneshwar@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I'm a joker
 
